@@ -46,6 +46,7 @@ int main(){
     dijkstra dj1;
     int distance = dj1.minimum_effortpath(maze,src,des);
     cout<<"The minimum effort path for following maze is: "<<distance;
+    cout<<"The minimum effort path for following maze is: "<<distance;
 
     return 0;
 }
